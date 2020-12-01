@@ -11,10 +11,10 @@
  
 <strong>📫 How to reach me </strong>
    
-   1. [twitter @cas8398](https://twitter.com/hedythedev) (recommended)
-   2. [linkedin](https://www.linkedin.com/in/cahyanudien/) (if you don't have twitter)
-   3. [email](mailto:cas8398@gmail.com) (not recommended)
-   
+ [![Linkedin Badge](https://img.shields.io/badge/-cahyanudien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cahyanudien/)](https://www.linkedin.com/in/cas8398/)
+[![Instagram Badge](https://img.shields.io/badge/-cas8398-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/cas8398/)](https://instagram.com/cas8398)  
+[![Gmail Badge](https://img.shields.io/badge/-cas8398@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cas83981@gmail.com)](mailto:kanna6501@gmail.com)
+  
    
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
@@ -23,5 +23,6 @@
 ### 🐱My Github stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=cas8398&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cas8398&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cas8398&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cas8398)
