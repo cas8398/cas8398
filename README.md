@@ -20,5 +20,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=cas8398&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cas8398)
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
