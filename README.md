@@ -12,9 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cas8398&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=cas8398&theme=monokai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cas8398)
-
-<!--START_SECTION:waka-->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cas8398) 
+<!--START_SECTION:waka-->  
 <!--END_SECTION:waka-->
 
 [![Duc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cas8398&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
