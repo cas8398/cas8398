@@ -18,3 +18,6 @@
 [![Duc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cas8398&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cas8398)
+
+<a href="https://www.buymeacoffee.com/cas8398"><img src="https://img.buymeacoffee.com/button-api/?text=Belikan saya Kopi&emoji=&slug=cas8398&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href='https://ko-fi.com/R6R234192' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
