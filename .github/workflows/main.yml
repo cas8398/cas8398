@@ -1,4 +1,4 @@
-- name: WakaTime Coding Statistics
+- name: WakaTime Coding Statistics 2
   # You may pin to the exact commit or the version.
   # uses: tariksahni/coding-stats-wakatime@71e809c34adb51557dcbbb0f5862da04c18f8e2b
   uses: tariksahni/coding-stats-wakatime@v1.0.1
