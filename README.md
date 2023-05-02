@@ -15,7 +15,8 @@
 <!--START_SECTION:waka-->  
 <!--END_SECTION:waka-->
 
-[![Duc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cas8398&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Duc's wakatime stats](https://raw.githubusercontent.com/<username>/<repository>/<branch_name>/<images_folder>/<chart_name>.svg)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cas8398)
 
