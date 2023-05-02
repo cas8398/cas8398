@@ -14,10 +14,7 @@
  
 <!--START_SECTION:waka-->  
 <!--END_SECTION:waka-->
-
-[![Duc's wakatime stats](https://raw.githubusercontent.com/<username>/<repository>/<branch_name>/<images_folder>/<chart_name>.svg)](https://github.com/anuraghazra/github-readme-stats)
-
-
+ 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cas8398)
 
 <a href="https://www.buymeacoffee.com/cas8398"><img src="https://img.buymeacoffee.com/button-api/?text=Belikan saya Kopi&emoji=&slug=cas8398&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
