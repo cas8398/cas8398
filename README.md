@@ -5,9 +5,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=cas8398&theme=discord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
  
 <!--START_SECTION:waka-->  
+[![wakatime](https://wakatime.com/badge/user/70818c15-eb72-433e-9174-2ed1623e2fca.svg)](https://wakatime.com/@70818c15-eb72-433e-9174-2ed1623e2fca)
 <!--END_SECTION:waka-->
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cas8398)
 
-<a href="https://www.buymeacoffee.com/cas8398"><img src="https://img.buymeacoffee.com/button-api/?text=Belikan saya Kopi&emoji=&slug=cas8398&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
-<a href='https://ko-fi.com/R6R234192' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+<a href="https://sociabuzz.com/flagodna/tribe">Support Us : <img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//tribe/resources/img/Logo%20SociaBuzz%20Tribe.png"></a> 
