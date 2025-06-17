@@ -9,5 +9,3 @@
 <!--END_SECTION:waka-->
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cas8398)
-
-<a href="https://sociabuzz.com/flagodna/tribe">Support Us : <img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//tribe/resources/img/Logo%20SociaBuzz%20Tribe.png"></a> 
