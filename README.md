@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm Cahyanudien Aziz Saputra</h1>
-<h3 align="center">💻 Independent Developer · Founder @ FlagoDNA Developer · Creator of HadisKu</h3>
+<h3 align="center">💻 Independent Developer · Founder FlagoDNA </h3>
 
 <p align="center">
   <a href="https://orcid.org/0009-0007-5983-9221">
@@ -56,7 +56,7 @@ My flagship project, **HadisKu**, is a cross-platform digital library consolidat
 **Top Languages:**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cas8398&layout=compact&text_color=daf7dc&bg_color=151515)  
 **Achievements:**  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=cas8398&theme=discord&margin-w=15&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=cas8398)
 
 ---
 
