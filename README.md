@@ -38,8 +38,7 @@ My flagship project, **HadisKu**, is a cross-platform digital library consolidat
 ### [📘 HadisKu – Digital Hadith Library](https://github.com/Flagodna-Developer/hadisku)  
 > A comprehensive multi-platform application for authentic hadith collections with offline access, advanced search and bookmarking.  
 **Tech Stack:** `Flutter · Tauri · SQLite · Open Source (GPL-3.0)`  
-**Versions:** v2.3.0 → v2.3.1 (preprint DOI: 10.5281/zenodo.17470805)  
-[![HadisKu Repo](https://github-readme-stats.vercel.app/api/pin/?username=Flagodna-Developer&repo=hadisku&theme=tokyonight)](https://github.com/Flagodna-Developer/hadisku)
+**Versions:** v2.3.0 → v2.3.1 (preprint DOI: 10.5281/zenodo.17470805)   
 
 ---
 
@@ -50,11 +49,7 @@ My flagship project, **HadisKu**, is a cross-platform digital library consolidat
 
 ---
 
-## 📊 GitHub Insights  
-**My Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cas8398&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)  
-**Top Languages:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cas8398&layout=compact&text_color=daf7dc&bg_color=151515)  
+## 📊 GitHub Insights   
 **Achievements:**  
 ![](https://github-trophies.vercel.app/?username=cas8398)
 
