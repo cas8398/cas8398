@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm Cahyanudien Aziz Saputra</h1>
-<h3 align="center">💻 Independent Developer · Founder FlagoDNA </h3>
+<h3 align="center">💻 Full-Stack Developer · Author · Musician · Founder FlagoDNA</h3>
 
 <p align="center">
   <a href="https://orcid.org/0009-0007-5983-9221">
@@ -20,25 +20,34 @@
 ---
 
 ## 🚀 About Me  
-I build software that bridges traditional knowledge and modern tech.  
-With over [11 public repositories](https://github.com/cas8398?tab=repositories) and active contributions under [Flagodna Developer](https://github.com/Flagodna-Developer), I focus on delivering tools that matter.  
-My flagship project, **HadisKu**, is a cross-platform digital library consolidating authentic hadith from 14 renowned Islamic scholars, built to be offline-capable and globally accessible.
+I’m Cahyanudien, a full-stack developer, author, and introspective musician. I build privacy-first digital ecosystems and meaningful applications that solve real-world problems. As the founder of **FlagoDNA**, I’ve published 15+ apps reaching over 60,000 users.  
+
+I also write contemplative poetry and fiction, with works including *Hening yang Berjalan*, *Stillness That Walks*, and the fiction book *ACHE: Hidup Seperti Apa Ini?* (Indonesian) / *ACHE: What Kind of Life Is This?* (English), exploring mindfulness, quiet moments, and ordinary life.  
+
+Under the recording alias **Introversoul**, I release introspective music reflecting on daily life, creativity, and presence.
+
+🔗 Personal site: [cahyanudien.site](https://www.cahyanudien.site)  
+🏢 Company: [flagodna.com](https://flagodna.com)
 
 ---
 
 ## 🛠️ What I Do  
-- Dev & research in **Islamic knowledge digitization**  
-- Full-stack & cross-platform mobile/desktop (Flutter, Tauri, etc.)  
+- Full-stack & cross-platform mobile/desktop apps (Flutter, Tauri, etc.)  
 - Open-source & community-driven development (GPL-3.0)  
+- Islamic knowledge digitization & digital library projects  
 - Versioning, multi-platform release management, documentation  
 
 ---
 
-## 🕌 Featured Project  
+## 🕌 Featured Projects  
 ### [📘 HadisKu – Digital Hadith Library](https://github.com/Flagodna-Developer/hadisku)  
-> A comprehensive multi-platform application for authentic hadith collections with offline access, advanced search and bookmarking.  
+> A multi-platform application consolidating authentic hadith from 14 renowned Islamic scholars, offline-capable and globally accessible.  
 **Tech Stack:** `Flutter · Tauri · SQLite · Open Source (GPL-3.0)`  
-**Versions:** v2.3.0 → v2.3.1 (preprint DOI: 10.5281/zenodo.17470805)   
+**Versions:** v2.3.0 → v2.3.1 (preprint DOI: 10.5281/zenodo.17470805)  
+
+### [📙 ACHE – Fiction Book](https://www.amazon.com/dp/B0GS224DVW)  
+> A contemplative fiction book exploring 32 short scenes in an unnamed Japanese city, emphasizing mindfulness, ordinary life, and resilience.  
+**Formats:** Amazon Kindle · Google Play Books · Apple Books
 
 ---
 
@@ -58,9 +67,8 @@ My flagship project, **HadisKu**, is a cross-platform digital library consolidat
 ## 📫 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/cahyanudien"><img src="https://img.shields.io/badge/LinkedIn-Cahyanudien-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/cas8398"><img src="https://img.shields.io/badge/Twitter-@cas8398-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/></a<a href="https://www.cahyanudien.site">
-  <img src="https://img.shields.io/badge/Website-cahyanudien.site-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-</a>
+  <a href="https://twitter.com/cas8398"><img src="https://img.shields.io/badge/Twitter-@cas8398-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
+  <a href="https://www.cahyanudien.site"><img src="https://img.shields.io/badge/Website-cahyanudien.site-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
