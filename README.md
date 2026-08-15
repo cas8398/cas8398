@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm Cahyanudien Aziz Saputra</h1>
-<h3 align="center">💻 Full-Stack Developer · Author · Musician · Founder FlagoDNA</h3>
+<h3 align="center">💻 Full-Stack Developer · Author  · Founder FlagoDNA</h3>
 
 <p align="center">
   <a href="https://orcid.org/0009-0007-5983-9221">
@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 About Me  
-I’m Cahyanudien, a full-stack developer, author, and introspective musician. I build privacy-first digital ecosystems and meaningful applications that solve real-world problems. As the founder of **FlagoDNA**, I’ve published 15+ apps reaching over 60,000 users.  
+I’m Cahyanudien, a full-stack developer and author. I build privacy-first digital ecosystems and meaningful applications that solve real-world problems. As the founder of **FlagoDNA**, I’ve published 15+ apps reaching over 60,000 users.  
 
 I also write contemplative poetry and fiction, with works including *Hening yang Berjalan*, *Stillness That Walks*, and the fiction book *ACHE: Hidup Seperti Apa Ini?* (Indonesian) / *ACHE: What Kind of Life Is This?* (English), exploring mindfulness, quiet moments, and ordinary life.  
 
