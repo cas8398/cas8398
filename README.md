@@ -12,8 +12,8 @@
   <a href="https://github.com/cas8398">
     <img src="https://img.shields.io/badge/GitHub-cas8398-181717?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:cas8398@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cas8398@gmail.com-D14836?style=flat-square&logo=gmail" alt="Email"/>
+  <a href="mailto:cahyanudien@flagodna.com">
+    <img src="https://img.shields.io/badge/Email-cahyanudien@flagodna.com-D14836?style=flat-square&logo=gmail" alt="Email"/>
   </a>
 </p>
 
